@@ -1,0 +1,47 @@
+
+
+.caja_grande{
+    width: auto;
+    height: 118rem;
+    margin: auto;
+    background-color: rgb(241, 227, 253);
+
+}
+
+.titulo{
+    padding: 2rem;
+    color: rgb(5, 5, 5);
+
+    text-align: center;
+    font-weight: 800;
+    font-size: 60px;
+}
+
+/* PRIMERA PARTE */
+.caja_sub{
+    margin-left: 10rem;
+    display: flex;
+    flex-direction: row;
+}
+
+/* SEGUNDA PARTE */
+.caja_sub1{
+    margin-left: 10rem;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.caja_sub2{
+    margin-left: 10rem;
+    margin-top: -2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.caja_sub3{
+    margin-left: 10rem;
+    margin-top: -2rem;
+    display: flex;
+    flex-direction: row;
+}

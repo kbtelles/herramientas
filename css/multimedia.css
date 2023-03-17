@@ -1,0 +1,166 @@
+/*SECCION 2*/
+.caja2{
+    width: 40rem;
+    height: 20.5rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    background-color: rgb(255, 91, 200);
+}
+
+.titulo02{
+    color: rgb(61, 11, 105);
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/*********************************************/
+.cajita01{
+    display:flex;
+    flex-direction: row;
+}
+
+/* CATEGORIA 1 */
+.mul1{
+    background-color: rgb(248, 186, 240);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imm1{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -1.8rem;
+    margin-bottom: -0.4rem;
+}
+
+.nombre1{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 2 */
+.mul2{
+    background-color: rgb(248, 186, 240);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imm2{
+    width: 4rem;
+    height: 3rem;
+    margin-left: -9.8rem;
+    margin-bottom: -0.4rem;
+}
+
+.nombre2{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/*********************************************/
+.cajita02{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/* CATEGORIA 3 */
+.mul3{
+    background-color: rgb(248, 186, 240);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imm3{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -5.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.nombre3{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 4 */
+.mul4{
+    background-color: rgb(248, 186, 240);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imm4{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -6.4rem;
+    margin-bottom: -0.4rem;
+}
+
+.nombre4{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/*********************************************/
+.cajita03{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/* CATEGORIA 5 */
+.mul5{
+    background-color: rgb(248, 186, 240);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imm5{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -4rem;
+    margin-bottom: -0.4rem;
+}
+
+.nombre5{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 6 */
+.mul6{
+    background-color: rgb(248, 186, 240);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imm6{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -8rem;
+    margin-bottom: -0.4rem;
+}
+
+.nombre6{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}

@@ -1,0 +1,166 @@
+/* SECCIÓN 7 */
+.caja7{
+    width: 40rem;
+    height: 20rem;
+    margin: 2rem;
+    background-color: rgb(255, 211, 91);
+
+}
+
+.titulo07{
+    color: rgb(61, 11, 105);
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/*********************************************/
+.caj1{
+    display:flex;
+    flex-direction: row;
+}
+
+/* CATEGORIA 1 */
+.elim1{
+    background-color: rgb(248, 232, 186);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.ime1{
+    width: 6rem;
+    height: 3rem;
+    margin-left: -2.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.vir1{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 2 */
+.elim2{
+    background-color: rgb(248, 232, 186);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.ime2{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -1.3rem;
+    margin-bottom: -0.4rem;
+}
+
+.vir2{
+    font-size: 15px;
+    margin-left: 0.5rem;
+}
+
+
+/*********************************************/
+.caj2{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/* CATEGORIA 3 */
+.elim3{
+    background-color: rgb(248, 232, 186);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.ime3{
+    width: 6rem;
+    height: 3rem;
+    margin-left: -2rem;
+    margin-bottom: -0.4rem;
+}
+
+.vir3{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 4 */
+.elim4{
+    background-color: rgb(248, 232, 186);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.ime4{
+    width: 5rem;
+    height: 3rem;
+    margin-left: -6.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.vir4{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/*********************************************/
+.caj3{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/* CATEGORIA 5 */
+.elim5{
+    background-color: rgb(248, 232, 186);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.ime5{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -2.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.vir5{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 6 */
+.elim6{
+    background-color: rgb(248, 232, 186);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.ime6{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -6rem;
+    margin-bottom: -0.4rem;
+}
+
+.vir6{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}

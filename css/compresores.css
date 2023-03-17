@@ -1,0 +1,166 @@
+/* SECCIÓN 3 */
+.caja3{
+    width: 40rem;
+    height: 20rem;
+    margin: 2rem;
+    background-color: rgb(91, 129, 255);
+
+}
+
+.titulo03{
+    color: rgb(61, 11, 105);
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/*********************************************/
+.box1{
+    display:flex;
+    flex-direction: row;
+}
+
+/* CATEGORIA 1 */
+.bot1{
+    background-color: rgb(190, 186, 248);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imj1{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -9.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.nom1{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 2 */
+.bot2{
+    background-color: rgb(190, 186, 248);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imj2{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -8.9rem;
+    margin-bottom: -0.4rem;
+}
+
+.nom2{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/*********************************************/
+.box2{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/* CATEGORIA 3 */
+.bot3{
+    background-color: rgb(190, 186, 248);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imj3{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -0.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.nom3{
+    font-size: 17px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 4 */
+.bot4{
+    background-color: rgb(190, 186, 248);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imj4{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -4.4rem;
+    margin-bottom: -0.4rem;
+}
+
+.nom4{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/*********************************************/
+.box3{
+    display:flex;
+    flex-direction: row;
+}
+
+
+/* CATEGORIA 5 */
+.bot5{
+    background-color: rgb(190, 186, 248);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imj5{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -0.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.nom5{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
+
+
+/* CATEGORIA 6 */
+.bot6{
+    background-color: rgb(190, 186, 248);
+    width: 18rem;
+    height: 4rem;
+    margin: 1rem;
+
+}
+
+.imj6{
+    width: 3rem;
+    height: 3rem;
+    margin-left: -9.5rem;
+    margin-bottom: -0.4rem;
+}
+
+.nom6{
+    font-size: 20px;
+    margin-left: 0.5rem;
+}
